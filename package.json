@@ -1,35 +1,35 @@
 {
-    "name": "vs-extensions",
-    "displayName": "vs-extensions",
-    "description": "vs-code extension pack for angular develop",
-    "version": "0.0.1",
-    "publisher": "alejandroppir",
-    "engines": {
-        "vscode": "^1.59.0"
-    },
-    "categories": [
-        "Extension Packs"
-    ],
-    "extensionPack": [
-        "msjsdiag.debugger-for-chrome",
-        "angular.ng-template",
-        "johnpapa.angular2",
-        "natewallace.angular2-inline",
-        "formulahendry.auto-close-tag",
-        "moshfeu.compare-folders",
-        "dbaeumer.vscode-eslint",
-        "mkaufman.htmlhint",
-        "lokalise.i18n-ally",
-        "zignd.html-css-class-completion",
-        "xabikos.javascriptsnippet",
-        "ms-vscode.vscode-typescript-next",
-        "ms-vscode.js-debug-nightly",
-        "pkief.material-icon-theme",
-        "eg2.vscode-npm-script",
-        "nrwl.angular-console",
-        "christian-kohler.path-intellisense",
-        "esbenp.prettier-vscode",
-        "rbbit.typescript-hero",
-        "vscode-icons-team.vscode-icons"
-    ]
+ "name": "vs-extension-pack",
+ "displayName": "vs-extension-pack",
+ "description": "vs-code extension pack for angular develop",
+ "version": "0.0.1",
+ "publisher": "alejandroppir",
+ "engines": {
+  "vscode": "^1.59.0"
+ },
+ "categories": [
+  "Extension Packs"
+ ],
+ "extensionPack": [
+  "msjsdiag.debugger-for-chrome",
+  "angular.ng-template",
+  "johnpapa.angular2",
+  "natewallace.angular2-inline",
+  "formulahendry.auto-close-tag",
+  "moshfeu.compare-folders",
+  "dbaeumer.vscode-eslint",
+  "mkaufman.htmlhint",
+  "lokalise.i18n-ally",
+  "zignd.html-css-class-completion",
+  "xabikos.javascriptsnippet",
+  "ms-vscode.vscode-typescript-next",
+  "ms-vscode.js-debug-nightly",
+  "pkief.material-icon-theme",
+  "eg2.vscode-npm-script",
+  "nrwl.angular-console",
+  "christian-kohler.path-intellisense",
+  "esbenp.prettier-vscode",
+  "rbbit.typescript-hero",
+  "vscode-icons-team.vscode-icons"
+ ]
 }
