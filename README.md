@@ -32,6 +32,7 @@ npm i -D typescript @typescript-eslint/parser @typescript-eslint/eslint-plugin
 If you are interested in add more rules you can check this pages
 
 <a href="https://eslint.org/docs/rules/" class="navbar-brand"><img alt="ESLint" src="https://1.bp.blogspot.com/-RE1QxyoTpEc/XwhpVqFBm3I/AAAAAAAFH5s/T8tgKwNIIuk0zsfLAxHycE_9JSUz_ky5wCLcBGAsYHQ/s1400/eslint.png"  width="100px"></a>
+
 <a href="https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin" class="navbar-brand"><img alt="ESLint" src="https://1.bp.blogspot.com/-RE1QxyoTpEc/XwhpVqFBm3I/AAAAAAAFH5s/T8tgKwNIIuk0zsfLAxHycE_9JSUz_ky5wCLcBGAsYHQ/s1400/eslint.png" width="100px"></a>
 
 ## Format
