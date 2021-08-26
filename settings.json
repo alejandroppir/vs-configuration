@@ -1,0 +1,40 @@
+{
+ "window.zoomLevel": 0,
+ "editor.defaultFormatter": "esbenp.prettier-vscode",
+ "editor.tabSize": 1,
+ "editor.formatOnPaste": true,
+ "editor.formatOnSave": true,
+ "editor.formatOnSaveMode": "file",
+ "files.trimFinalNewlines": true,
+ "files.trimTrailingWhitespace": true,
+ "workbench.startupEditor": "none",
+ "workbench.editor.highlightModifiedTabs": true,
+ "workbench.editor.scrollToSwitchTabs": true,
+ "css.lint.duplicateProperties": "error",
+ "eslint.alwaysShowStatus": true,
+ "javascript.format.semicolons": "insert",
+ "javascript.preferences.quoteStyle": "single",
+ "typescript.format.semicolons": "insert",
+ "typescriptHero.imports.organizeOnSave": true,
+ "prettier.enable": true,
+ "eslint.validate": ["typescript", "javascript"],
+ "eslint.enable": true,
+ "javascript.preferences.importModuleSpecifier": "relative",
+ "typescript.preferences.importModuleSpecifier": "relative",
+ "htmlhint.options": {
+  "attr-lowercase": false,
+  "doctype-first": false
+ },
+ "i18n-ally.displayLanguage": "es",
+ "i18n-ally.localeCountryMap": {
+  "es": "es",
+  "ca": "es",
+  "gl": "es"
+ },
+ "i18n-ally.sortKeys": true,
+ "i18n-ally.keepFulfilled": true,
+ "i18n-ally.sourceLanguage": "es",
+ "diffEditor.ignoreTrimWhitespace": false,
+ "prettier.tabWidth": 1,
+ "i18n-ally.enabledFrameworks": "ngx-translate"
+}
