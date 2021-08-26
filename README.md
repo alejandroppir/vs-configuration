@@ -1,12 +1,21 @@
-# README
+# Visual Studio Code extension pack
 
-To pack this extension pack is needes to have installed vsce
+This is a pack of useful extensions for visual studio code (made for angular projects)
 
-````npm i -g vsce
+## How to pack
+To pack this is needed to have installed vsce
+
+```
+npm i -g vsce
+```
 
 After install vsce you should
-```vsce package
+```
+vsce package
+```
 
-For install the extension pack you should do
-```code --install-extension $name_of_the_extension_pack.vsix
-````
+## How to install
+For install the extension pack you should
+```
+code --install-extension $name_of_the_extension_pack.vsix
+```
