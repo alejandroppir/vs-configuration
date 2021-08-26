@@ -31,5 +31,9 @@
   "esbenp.prettier-vscode",
   "rbbit.typescript-hero",
   "vscode-icons-team.vscode-icons"
- ]
+ ],
+ "repository": {
+  "type": "git",
+  "url": "git://github.com/alejandroppir/vs-extension-pack"
+ }
 }
