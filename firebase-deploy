@@ -1,0 +1,21 @@
+Go to: https://firebase.google.com/ and login
+create new proyect
+
+Install firebase:
+npm i -g firebase --save
+npm install -g firebase-tools
+
+Login
+firebase login
+
+
+Init:
+firebase init
+ready
+select hosting: configure and deploy firebase hosting sites
+select the proyect
+publick folder: dis/proyect-name
+single page
+
+Build angular proyect
+ng build
